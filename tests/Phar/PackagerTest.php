@@ -6,7 +6,7 @@ class PackagerTest extends TestCase
 {
     private $packager;
 
-    public function setUp()
+    public function setUp(): void
     {
         $this->packager = new Packager();
     }
