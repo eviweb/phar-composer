@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+*   Update Symfony dependencies to 4.3
+
+*   Update PHP version requirement to >= 7.1
+
 ## 1.0.0 (2015-11-15)
 
 *   First stable release, now following SemVer.
